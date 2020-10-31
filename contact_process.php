@@ -15,8 +15,8 @@
 
     $subject = "You have a message from your Aloysius.ml.";
 
-    $logo = 'img/logo.png';
-    $link = '#';
+    $logo = 'PATH TO LOGO';
+    $link = 'LINK TO WEBSITE';
 
 	$body = "<!DOCTYPE html><html lang='en'><head><meta charset='UTF-8'><title>Express Mail</title></head><body>";
 	$body .= "<table style='width: 100%;'>";
